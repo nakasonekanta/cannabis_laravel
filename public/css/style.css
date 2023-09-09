@@ -1,0 +1,98 @@
+.register{
+    text-align: right;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.test{
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 100px;
+    
+}
+.test2{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+}
+.test3{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+}
+.test4{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+   
+}
+.test5{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 40px;
+}
+.test6{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 40px;
+}
+
+
+
+
+.tekisuto{
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 100px;
+    
+}
+.tekisuto2{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+}
+.tekisuto3{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+}
+.tekisuto4{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 20px;
+   
+}
+.tekisuto5{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 40px;
+}
